@@ -1,0 +1,1 @@
+This package is designed for your Missionette Wiccacraft Academy, using your existing GitHub curriculum as the foundation. It includes instructor notes, a teaching script, student activities, a quiz with answer key, homework, and materials for Moodle, YouTube, and Discord.
